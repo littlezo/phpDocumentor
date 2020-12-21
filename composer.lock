@@ -1195,12 +1195,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpDocumentor/GraphViz.git",
-                "reference": "bbb7094993a53da6822bd691b360032c3d8c94fe"
+                "reference": "03e91cdef6479ce1930988354b7de70d275e3aff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/GraphViz/zipball/bbb7094993a53da6822bd691b360032c3d8c94fe",
-                "reference": "bbb7094993a53da6822bd691b360032c3d8c94fe",
+                "url": "https://api.github.com/repos/phpDocumentor/GraphViz/zipball/03e91cdef6479ce1930988354b7de70d275e3aff",
+                "reference": "03e91cdef6479ce1930988354b7de70d275e3aff",
                 "shasum": ""
             },
             "require": {
@@ -1235,7 +1235,7 @@
                 }
             ],
             "description": "Wrapper for Graphviz",
-            "time": "2020-10-26T06:32:22+00:00"
+            "time": "2020-12-18T14:52:03+00:00"
         },
         {
             "name": "phpdocumentor/reflection",
@@ -2387,16 +2387,16 @@
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v5.1.7",
+            "version": "v5.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
-                "reference": "d5de97d6af175a9e8131c546db054ca32842dd0f"
+                "reference": "1c93f7a1dff592c252574c79a8635a8a80856042"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/d5de97d6af175a9e8131c546db054ca32842dd0f",
-                "reference": "d5de97d6af175a9e8131c546db054ca32842dd0f",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/1c93f7a1dff592c252574c79a8635a8a80856042",
+                "reference": "1c93f7a1dff592c252574c79a8635a8a80856042",
                 "shasum": ""
             },
             "require": {
@@ -2427,11 +2427,6 @@
                 "symfony/http-kernel": ""
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "5.1-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\EventDispatcher\\": ""
@@ -2470,7 +2465,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-09-18T14:27:32+00:00"
+            "time": "2020-12-18T08:03:05+00:00"
         },
         {
             "name": "symfony/expression-language",
