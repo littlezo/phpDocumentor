@@ -1195,12 +1195,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpDocumentor/GraphViz.git",
-                "reference": "bbb7094993a53da6822bd691b360032c3d8c94fe"
+                "reference": "03e91cdef6479ce1930988354b7de70d275e3aff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/GraphViz/zipball/bbb7094993a53da6822bd691b360032c3d8c94fe",
-                "reference": "bbb7094993a53da6822bd691b360032c3d8c94fe",
+                "url": "https://api.github.com/repos/phpDocumentor/GraphViz/zipball/03e91cdef6479ce1930988354b7de70d275e3aff",
+                "reference": "03e91cdef6479ce1930988354b7de70d275e3aff",
                 "shasum": ""
             },
             "require": {
@@ -1235,7 +1235,7 @@
                 }
             ],
             "description": "Wrapper for Graphviz",
-            "time": "2020-10-26T06:32:22+00:00"
+            "time": "2020-12-18T14:52:03+00:00"
         },
         {
             "name": "phpdocumentor/reflection",
@@ -2857,16 +2857,16 @@
         },
         {
             "name": "symfony/http-foundation",
-            "version": "v5.1.7",
+            "version": "v5.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-foundation.git",
-                "reference": "353b42e7b4fd1c898aab09a059466c9cea74039b"
+                "reference": "a1f6218b29897ab52acba58cfa905b83625bef8d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-foundation/zipball/353b42e7b4fd1c898aab09a059466c9cea74039b",
-                "reference": "353b42e7b4fd1c898aab09a059466c9cea74039b",
+                "url": "https://api.github.com/repos/symfony/http-foundation/zipball/a1f6218b29897ab52acba58cfa905b83625bef8d",
+                "reference": "a1f6218b29897ab52acba58cfa905b83625bef8d",
                 "shasum": ""
             },
             "require": {
@@ -2885,11 +2885,6 @@
                 "symfony/mime": "To use the file extension guesser"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "5.1-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\HttpFoundation\\": ""
@@ -2928,7 +2923,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-09-27T14:14:57+00:00"
+            "time": "2020-12-18T10:00:10+00:00"
         },
         {
             "name": "symfony/http-kernel",
